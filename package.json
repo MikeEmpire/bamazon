@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "## Description on how to use the app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "node bamazonCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwiftMike/bamazon.git"
+  },
+  "author": "Michael Olie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwiftMike/bamazon/issues"
+  },
+  "homepage": "https://github.com/SwiftMike/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
